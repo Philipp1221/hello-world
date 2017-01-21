@@ -1,3 +1,3 @@
 # hello-world
-first repository
-hallo bla bla bla
+halllo, mal schauen was rauskommt wenn das der stefan auch bearbeitet...
+ich schreib mal irgendwas... blablabla
